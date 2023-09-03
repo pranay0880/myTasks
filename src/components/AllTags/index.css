@@ -1,0 +1,18 @@
+.button2 {
+  background-color: transparent;
+  padding: 5px;
+  margin: 10px;
+  color: white;
+  border: 1px solid #f3aa4e;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+}
+
+.activeButton {
+  background-color: #f3aa4e;
+}
+.tagListItem {
+  list-style-type: none;
+  display: flex;
+}
